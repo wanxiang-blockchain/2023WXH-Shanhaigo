@@ -1,4 +1,4 @@
-# Shanhai Go
+# 2023WXH-Shanhaigo
 
 > 基于 [MUD](https://mud.dev/) 的全链游戏
 
